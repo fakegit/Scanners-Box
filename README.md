@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md) ｜ [日本語](./README_JP.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.04-blue.svg" alt="202604">
+  <img src="https://img.shields.io/badge/version-2026.05-blue.svg" alt="202605">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-336-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-337-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -30,7 +30,8 @@ English | [简体中文](./README_CN.md) ｜ [日本語](./README_JP.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [AI model-Powered autonomous scanners](#ai-model-powered-scanners)
+- [AI Autonomous Pentesting Agent](#ai-autonomous-pentesting-agent)
+- [AI Model-Powered Scanners](#ai-model-powered-scanners)
 - [Scanners for AI Apps](#scanners-for-ai-apps)
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
@@ -55,11 +56,17 @@ English | [简体中文](./README_CN.md) ｜ [日本語](./README_JP.md)
 
 ***
 
-### AI model-Powered autonomous scanners
+### AI Autonomous Pentesting Agent
+
+- https://github.com/oritera/Cairn - **A AI general-purpose state-space search engine, validated first on autonomous penetration testing**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square)
 
 - https://github.com/KeygraphHQ/shannon - **Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
+
+### AI Model-Powered Scanners
 
 - https://github.com/weareaisle/nano-analyzer - **A minimal LLM-powered zero-day vulnerability scanner by AISLE**
 
@@ -1540,4 +1547,4 @@ We would like to thanks the following security researchers for their valuable fe
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2025
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2026
