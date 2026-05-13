@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2026.04-blue.svg" alt="202604">
+  <img src="https://img.shields.io/badge/版本-2026.05-blue.svg" alt="202605">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-336-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-337-blue.svg" alt="number">
 </p>
 
 ## 捐赠
@@ -28,7 +28,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [AI大模型驱动的"自主"扫描器](#AI大模型驱动的"自主"扫描器)
+- [AI大模型自主渗透Agent](#AI大模型自主渗透Agent)
+- [AI大模型驱动的扫描器](#AI大模型驱动的扫描器)
 - [AI应用漏洞扫描器](#AI应用漏洞扫描器)
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
@@ -52,11 +53,18 @@
 
 ***
 
-### AI大模型驱动的"自主"扫描器
+### AI大模型自主渗透Agent
+
+- https://github.com/oritera/Cairn - **Cairn 是一款通用问题求解引擎。 它不定义任何角色，也不定义任何工作流程。给定起点和终点，它会在未知的状态空间中寻找路径**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square&label=开源协议)
+
 
 - https://github.com/KeygraphHQ/shannon - **Shannon Lite 是一款基于大模型的自主运行的白盒扫描器，适用于 Web 应用程序和 API。它可以自主分析源代码，自主识别攻击面，并执行真实的EXP，从而在漏洞进入生产环境之前验证其有效性**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
+
+### AI大模型驱动的扫描器
 
 - https://github.com/weareaisle/nano-analyzer - **AISLE 开发的基于LLM的极简0day漏洞扫描器**
 
