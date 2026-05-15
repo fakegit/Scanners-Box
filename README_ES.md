@@ -54,7 +54,7 @@
 | 💼 **Seguridad de Red Oficinal con IA** | Agentes de IA para la seguridad de red empresarial, prevención de pérdida de datos y amenazas internas |
 
 <p align="center">
-  <sub>📌 Sigue a <a href="https://github.com/We5ter/Project-A3C"><b>Project A³C</b></a> para actualizaciones · <a href="mailto:a3c-security@proton.me?subject=A%C2%B3C%20Colaboraci%C3%B3n">Colabora con nosotros</a></sub>
+  <sub>📌 Sigue a <a href="https://github.com/We5ter/Project-A3C"><b>Project A³C</b></a> para actualizaciones · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Colaboraci%C3%B3n"><b>Colabora con nosotros</b></a></sub>
 </p>
 
 ## Tabla de contenidos
