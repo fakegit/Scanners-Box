@@ -42,7 +42,7 @@
 
 </div>
 
-> 🚀 **Próximamente** — A³C es un proyecto de código abierto dedicado a construir **agentes de ciberseguridad con IA totalmente autónomos**, capaces de ejecutar pruebas de penetración, evaluación de vulnerabilidades, caza de amenazas y respuesta a incidentes de forma independiente. ¡Estén atentos!
+> 🚀 **Próximamente** — A³C es una **colección curada** de proyectos de código abierto que construyen **agentes de ciberseguridad con IA totalmente autónomos**. Es el índice oficial y centro de autenticación para herramientas de seguridad autónomas impulsadas por IA. [Visitar Project A³C →](https://github.com/We5ter/Project-A3C)
 
 | Capacidad | Descripción |
 |:----------|:------------|

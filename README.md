@@ -44,7 +44,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 </div>
 
-> 🚀 **Coming Soon** — A³C is an open-source project dedicated to building **fully autonomous AI cybersecurity agents** that can independently execute penetration testing, vulnerability assessment, threat hunting, and incident response. Stay tuned!
+> 🚀 **Coming Soon** — A³C is a **curated collection** of open-source projects that build **fully autonomous AI cybersecurity agents**. It serves as the official index & authentication hub for AI-driven autonomous security tools. [Visit Project A³C →](https://github.com/We5ter/Project-A3C)
 
 | Capability | Description |
 |:-----------|:------------|
